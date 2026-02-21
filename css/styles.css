@@ -886,8 +886,7 @@ a {
 
 
 .checkbox-wrapper {
-    padding-top: 16px;
-    margin-bottom: 24px
+    padding-top: 8px;
 }
 
 .input-checkbox:checked+.text-terms .custom-checkbox {
