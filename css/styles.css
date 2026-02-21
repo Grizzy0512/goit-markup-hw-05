@@ -808,7 +808,7 @@ a {
 }
 
 .field-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .icon-inner {
@@ -882,6 +882,12 @@ a {
     letter-spacing: 0.04em;
     color: rgba(46, 47, 66, 0.4);
 
+}
+
+
+.checkbox-wrapper {
+    padding-top: 16px;
+    margin-bottom: 24px
 }
 
 .input-checkbox:checked+.text-terms .custom-checkbox {
